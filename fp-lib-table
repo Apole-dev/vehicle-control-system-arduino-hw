@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "yalcin")(type "KiCad")(uri "/home/eren/Documents/yalcin")(options "")(descr ""))
+)
